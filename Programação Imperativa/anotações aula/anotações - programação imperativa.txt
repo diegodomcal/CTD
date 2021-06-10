@@ -17,5 +17,18 @@ let x=50;
 let resto= x%2;
 let resposta = resto == 0 ? "Par" : "Impar";
 
+AULA 05 - ARRAY
+
+Para pegar um elemento de uma array que está dentro de outra array
+
+Ex:
+
+let nomes = ["Murilo", "João", "Maria", ["Sérgio", "Ana"]]
+
+consoloe.log(nomes[3][0])
+vai mostrar: Sérgio
+
+console.log(nomeArray[X][Y])
+
 
 
