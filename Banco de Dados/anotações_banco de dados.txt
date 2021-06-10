@@ -1,0 +1,25 @@
+AULA 28/05
+
+Bando de dados - armanezar, gerenciar, consultar e unificar dados.
+
+Redundância: problema, duas vezes os mesmos dados sempre é problema
+
+Consistência e integridade de dados:
+
+Base de dados é onde estãos os dados.
+Banco de dados é o que manipula os dados.
+
+Modelo lógico - "planta da casa"
+Modelo físico - "o banco de dados construído"
+
+
+Pesquisar - Chaves primaria e chave estrangeira
+
+
+AULA 03 - Entidades e atributos
+
+"Desenha" Modelo lógico - draw.io -> entily relationship diagram
+
+
+
+AULA 04 - TIPOS DE DADOS

@@ -1,0 +1,27 @@
+git clone ****repositório no git hub******
+
+# -> id
+. -> class
+
+rm -r .git
+
+
+
+----- AULA 06
+
+background-image: linear-gradient
+height: 100
+
+
+display: inline / block / inline-block / none (para não mostrar nada); ....
+
+*estudar para que ser a tag "span"
+
+
+favicon - ícone do site
+<head>
+<link href="xxxxxxxx"  rel="shortcut icon">
+</head>
+
+google fonts
+ colocar o link no <head> do html e depois colocar o family font no css

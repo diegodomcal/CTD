@@ -1,0 +1,7 @@
+AULA 03 - GIT
+
+VCS: Version Control System
+SCM: Source Code Management
+
+comando: ls -a    -> mostra até os arquivos ocultos da pasta
+comando: git --list   -> mostra toda a configuração do git (username, email...)

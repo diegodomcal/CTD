@@ -1,0 +1,36 @@
+METODOLOGIAS ÁGEIS 
+
+- Aula 01 - 28/05/2021
+
+KANBAN - ferramenta utilizado na gestão de projetos, para ajudar a construção de um projeto.
+DESIGN THINKI	NG - trabalhado em parceria com o cliente.
+Lean* Startup - Prototipação da ideia, ferramenta que auxilia a construção do projeto.
+
+
+Etapas:
+
+1 - Design Thinking
+2 - Prototipagem
+
+
+Método ágeis são feitos para responder perguntas de negócios.
+
+----------------
+Podcast - Destino Digital
+
+Assistir - GIGANTE DOS MOTORES
+
+MUNDO VUCA - estudar
+
+Internet integrada, o que é?
+
+---------------
+
+Playground 
+
+Metodologias mais utilizadas nos projetos:
+
+Waterfall: em que o projeto é feito seguindo etapas, de forma sequencial. É o método tradicional
+
+Agile: focado em entregar o projeto o mais rápido. É divida em sprints, em que cada sprint busca focar os aspectos mais importantes do projeto
+Entrega rápida, mesmo com o projeto não pronto, mas de forma funcional.

@@ -1,0 +1,25 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+}
+
+h2 {
+    color: teal;
+}
+
+.jogadores {
+    color: purple;
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+#link{
+    color:lightseagreen;
+    font-size: 15px;
+    font-style: italic;
+    font-family: monospace;
+}
+
+.lista{
+    color:orangered;
+}

@@ -1,0 +1,21 @@
+Pesquisar diferença entre let e var
+
+AULA 04 - IF / SWITCH
+
+switch (mes) {
+
+	case 1: mesextenso = "Janeiro";
+	break;
+
+	default: mesextendo = "Mês inválido";
+}
+
+
+IF TERNÁRIO
+
+let x=50;
+let resto= x%2;
+let resposta = resto == 0 ? "Par" : "Impar";
+
+
+

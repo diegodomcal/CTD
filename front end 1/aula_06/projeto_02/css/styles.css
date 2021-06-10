@@ -1,0 +1,39 @@
+body{
+    font-family: 'Lato', sans-serif; ;
+    background-image: linear-gradient(rgb(116, 164, 186),rgb(241, 254, 198));
+    height: 1020px;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 900;
+    color:#001aff;
+    text-align: center
+}
+
+
+p{
+ font-size: 30px;
+ display: inline;
+}
+.p1{
+    background-color: yellowgreen;
+}
+
+.p2{
+    background-color: violet;
+}
+
+.p3{
+    background-color:teal;
+}
+
+h2{
+    text-align: center;
+    color:whitesmoke;
+    background-color: tomato;
+}
+
+img{
+    width: 60%;
+}
